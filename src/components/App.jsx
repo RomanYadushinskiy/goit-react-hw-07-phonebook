@@ -13,7 +13,7 @@ export const App = () => {
           fontSize: 20,
           color: '#010101',
         }}>
-      <h1>Phonebook</h1>
+      <h1>Phonebookk</h1>
       <ContactForm />
 
       <h2>Contacts</h2>
